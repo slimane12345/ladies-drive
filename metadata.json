@@ -1,0 +1,9 @@
+{
+  "name": "Ladies Drive",
+  "description": "An exclusive transportation app for women, prioritizing safety, comfort, and elegance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
